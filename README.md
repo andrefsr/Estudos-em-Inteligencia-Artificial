@@ -1,0 +1,1 @@
+**Estudos realizados durante a disciplina de Inteligência Computacional (Em andamento)**
